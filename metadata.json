@@ -1,0 +1,6 @@
+{
+  "name": "INFO SAA",
+  "description": "Progressive Web App resmi INFO SAA - Gereja Katolik St. Albertus Agung Makassar dengan integrasi Google Drive dan YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
